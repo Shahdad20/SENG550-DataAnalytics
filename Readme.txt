@@ -1,4 +1,4 @@
-Calgary Air Quality Analysis ETL Project:
+# Calgary Air Quality Analysis ETL Project:
 
 This project involves the extraction, transformation, and loading (ETL) of air quality data for the City of Calgary. The project utilized Apache Spark for data processing and culminated in the creation of data visualizations to provide actionable insights.
 
